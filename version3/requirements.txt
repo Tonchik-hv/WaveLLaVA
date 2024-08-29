@@ -1,0 +1,11 @@
+datasets
+torch
+pytorch-lightning
+transformers
+Pillow
+PyWavelets
+ptwt
+torchvision
+sentencepiece
+protobuf
+accelerate
