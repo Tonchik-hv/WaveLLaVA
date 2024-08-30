@@ -1,5 +1,7 @@
 # WaveLLaVA: кодирование модальностей в LLM с помощью вейвлет-преобразования, проект [AIRI Summer School](https://airi.net/ru/summer-school-2024/).
 
+На основе [статьи](https://arxiv.org/pdf/2405.18616) DeepMind.
+
 ## Цель: 
 Применить Wavelet преобразования для получения представления изображения в мультимодальных моделях для задачи image captioning
 
